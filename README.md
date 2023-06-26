@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Mario 👋
 
+- 🖌 I'm currently working as a Data Scientist 
+- 📊 I'm currently learning machine learning and econometric models
+- 🎮 I'll be very happy to colaborate on any project related to videogames and soccer    
 <!--
 **moemedina/moemedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
