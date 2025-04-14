@@ -1,0 +1,148 @@
+########   Arcop 
+11_15 abr 12
+solo de baja california
+- cve_edo // MUN (Locacion) 
+- aprueba4a: Percepción
+- pid: ideología 
+AÑADIDA
+
+09-12 abr12 sonora
+solo sonora 
+- EDO-MUN // Location
+- aprueba4a: percepción
+- pid: ideología 
+AÑADIDA
+
+09-12 abr12 nl
+solo nl 
+- EDO-MUN // Location
+- aprueba4a: percepción
+- pid: ideología 
+AÑADIDA
+
+8-11 abr12 coahuila
+- EDO-MUN // Location
+- aprueba4a: percepción
+- pid: ideología 
+AÑADIDA
+
+27_01 abr12 chihuahua
+- CVE_EDO + CVE_MPIO 
+- APRUEBA_A: percepción
+- PID: ideología  
+AÑADIDA
+
+27_01 abr12 tamaulipas
+- CVE_EDO + CVE_MPIO 
+- APRUEBA_A: percepción
+- PID: ideología  
+AÑADIDA
+
+#### BGC 
+01_05 junio12 
+edompio - dia
+p14: ideología 
+p15: percepción
+AÑADIDA
+
+19_23 mayo12
+edompio - dia 
+p16: percepcion----
+p14: ideologia
+AÑADIDA
+
+07_09 mayo12
+edompio - dia 
+p16: ideologia
+p17: percepcion
+AÑADIDA
+
+19_25 abril12
+edompio - dia 
+p1: percepción (cómo está el país) 
+p14: ideología 
+AÑADIDA
+
+9_11 abril12
+edompio - dia
+p13 ideologia 
+p14 percepcion
+AÑADIDA
+
+17_20 marzo 12
+edompio 
+p12 ideologia
+p13 percepcion
+AÑADIDA
+
+23_27 feb12
+estadompio - dia
+p13 ideologia
+p14 percepcion
+AÑADIDA
+
+#### Buendia
+28_03 abril12
+edo-muni 
+p5a ideología (xquien votas) 
+p15 (necesita cambio el gobierno?) 
+AÑADIDA
+
+#### Con estadistica
+22-24 junio 
+cveedo-cvempio
+p007: ideologia 
+p00801: Percepción
+AÑADIDA
+
+### Mitofsky
+Directo en el excel lo que se necesita 11 a 13 mayo
+AÑADIDA
+
+### Editorial zacatecas
+14-17 junio 12
+Todo es zacatecas-munici
+preg10 - percepcion (0 al 10) 
+resp_20 - ideologia (xquien votar) 
+AÑADIDA
+
+### GCE
+- cual (ideologia) que gobierne el pan u otro? (NA = PAN) 
+- desem_a (5 a 10) 
+- estado - muncorrecto (nombres) 
+AÑADIDO
+
+### MERCAEI 
+16-22 junio 
+- P6_2 (ideología) 
+- P2_3 (percepción) 
+- CVE_EDO-CVE_MPIO
+- DIA // MES
+AÑADIDA
+
+### PARAMETRIA
+28_31 Enero12
+- IDENRECO (ideologia) 
+- P08A Percepción 
+- ESTADO - MUNICIPIO (Nombres) 
+AÑADIDA
+
+### Zacatecas en Imagen 
+- 10_13 Mayo12
+- resp_8 (ideologia) 
+- preg15 (percepción) 
+- Todo es zacatecas - munici
+AÑADIDA
+
+31marzo_02abril
+- resp_8 (ideologia) 
+- preg14 (percepción) 
+- Todo es zacatecas - munici
+AÑADIDA
+
+### CNEP
+13-22 julio `día_entr`
+cve_enti - cve_mpio
+p62 (percepción) 
+p71 (ideologia) 
+AÑADIDO

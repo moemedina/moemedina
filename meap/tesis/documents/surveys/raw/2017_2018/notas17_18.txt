@@ -1,0 +1,310 @@
+https://cartografia.ife.org.mx/sige7/?mapoteca=catalogo&CSDEL
+https://cuentame.inegi.org.mx/monografias/informacion/gto/territorio/div_municipal.aspx?tema=me&e=11
+
+## CAPITAL: 24 de febrero al 2 de marzo (TODO)
+ID EDO-ID MUN
+p9: IDEOLOGIA
+p11: aprueba mucho - desaprueba mucho
+FECHAFIN: Fecha 
+AÑADIDO
+---------------------------------
+## MITOFSKY 12-14 ENE 2018
+a:
+p1: PERCEPCION (1-4)
+p2: ideologia (Porque partido votaría)
+SIN FECHA EXACTA
+AÑADIDO
+---------------------------------
+# ENKOLL 16-22 junio
+SIN FECHA 
+ENTIENDAD-MUN
+P5: PERSEPCION (1-10)
+P22: IDEOLOGÍA (partido) 
+AÑADIDO
+---------------------------------
+## CONTEO
+A: 23-27 MARZO 18
+SIN FECHA 
+edo-mpio 
+005a: Percepción (1-5 desaprueba mucho - aprueba mucho) 
+008: ideología 
+AÑADIDO
+---------------------------------
+B: 30-02 MAYO 18(TODO) 
+Fecha Lev
+edo-mun
+P009_Row1: Percepción (1-5 desaprueba mucho - aprueba mucho)
+P011: Ideología 
+AÑADIDO
+---------------------------------
+C: 9 al 11 febrero 2018
+SIN FECHA EXACTA
+edo-mpio
+p003_1: Percepción
+p008: ideología
+AÑADIDO
+---------------------------------
+D: 28 al 30 mayo 2018
+SIN FECHA EXACTA
+edo-cvempio 
+p00701: Percepción 
+p013: Ideología 
+AÑADIDO
+---------------------------------
+E: 14 al 17 junio 18 
+Sin fecha exacta
+edo-mun
+p00701: percepción 
+p013: ideología 
+AÑADIDO
+---------------------------------
+F: 2-7 marzo18
+SIN FECHA
+edo-mpio
+p004_1: percepción
+p007: ideología
+AÑADIDO
+---------------------------------
+GEA: (TODO)
+A: 
+18-21 nov 2017
+fecha
+entife-mun
+P09: Persepción
+p54a: ideología 
+AÑADIDO
+---------------------------------
+B: 15-17jun2018 (TODO)
+ent-mun
+fecha
+p08: persepción (1-2 aprueba-desaprueba) 
+p33a: ideología
+AÑADIDO
+---------------------------------
+C: septiembre (TODO) 
+fecha
+entife-mun
+p11: persepción (1-2) 
+p57a: ideología 
+AÑADIDO
+---------------------------------
+D: 25-27 mayo (TODO)
+fecha
+entidad-mun
+p09: persepción 
+p34a: ideología 
+AÑADIDO
+---------------------------------
+E: 1 julio 2018 (TODO)
+ent-mun
+fecha: Imputarla (TODO EL 1 julio) 
+pid: ideología 
+p3: persepción 
+AÑADIDO
+---------------------------------
+F: 15-17jun (TODO) 
+fecha
+edo(imputar yucatan) - mun
+p01: persepción 
+p03: ideología 
+AÑADIDO
+---------------------------------
+G: 1-3marzo2018 (TODO) 
+fecha
+entidad-munic
+p09: persepción 
+p46a: ideología 
+AÑADIDO
+---------------------------------
+h: marzo-abril. (TODO) 
+fecha
+entidad-mun
+p09: persepción 
+p49a: ideología 
+AÑADIDO
+---------------------------------
+## MERCAEI (TODO)
+cve_edo-cve_mpio 
+fecha_i_ent
+P8 (Ideología) 
+P11 (Percepción) - 1-4 aprueba mucho a desaprueba mucho
+AÑADIDO
+---------------------------------
+## PARAMETRO
+SIN FECHA EXACTA: (9-11 febrero) 
+estado-municipio
+preg3: ideología (xquien votaria) 
+preg5: persepción (creencia a peña nieto)
+AÑADIDO
+---------------------------------
+## POLITHINK 25-28mayo2018
+SIN FECHA EXACTA
+CVE_ENT-CVE_MUN
+p29: percepción (1-4) 
+P9 ideología 
+AÑADIDO
+---------------------------------
+SIN FECHA EXACTA 20-22 abril 
+b: cve_entidad - cve_municipio 
+P9 Ideología
+P28 Percepción 
+AÑADIDO
+---------------------------------
+c: SIN FECHA (21 al 24 Junio) 
+ID_EDO-ID_MUN
+P9: ideología 
+P29: percepción 
+AÑADIDO
+---------------------------------
+## REFORMA 
+SIN FECHA EXACTA
+a: 20-24 junio
+CVE_ENT.CVE_MUN
+BOLETA1: Ideología (xq votas) 
+P11: percepción (1-4: democracia en MX) 
+AÑADIDO
+---------------------------------
+b: 24-27 mayo
+Sin fecha exacta
+CVE_ENT-CVE_MUN 
+P15: percepción 
+Boleta1: Ideología (Xq votas) 
+AÑADIDO
+---------------------------------
+c: 12 al 15 abril 
+ClaveEntidad-Municipio
+P10: percepción
+boleta1
+AÑADIDO
+---------------------------------
+d: 16 al 21 mayo
+Sin fecha exacta.
+CVE_ENT-CVE-MUN
+P19: Percepción 
+boleta2: ideología (xq votas) 
+AÑADIDO
+---------------------------------
+e: 30 al 4 junio
+SIN FECHA exacta
+P12: percepción 
+boleta2: ideología (xq votas) 
+ClaveEnt-ClaveDeleg
+AÑADIDO
+---------------------------------
+### SPIN: (TODO - Laborioso) 2 encuestas
+dd
+estado-municipio (Con nombre-poner claves) 
+- p10 (ideología) 
+- p16_a (aprobar gobierno peña)
+AÑADIDO
+---------------------------------
+### SUAOR 24-27 feb 
+SIN FECHAS
+nomedo	nommpio
+p013 (ideologia) 
+p00701 (percepción) 
+AÑADIDO
+---------------------------------
+07-09junio
+edo-mun
+p011 (ideologia)
+p009_Row1 (percepción) 
+AÑADIDO
+---------------------------------
+21-23marzo
+estado_old-cvempio
+p00701 (percepción)
+p013 (Ideología) 
+AÑADIDO
+---------------------------------
+3-5enero 
+claveest clavemun
+p00101 (percepción) 
+p006 (ideología) 
+AÑADIDO
+---------------------------------
+0509mayo
+edo mun
+p00901 (percepción)
+p013 (ideología) 
+AÑADIDO
+---------------------------------
+25-28ene
+claveest clavemun
+p2_1 (Percepción) 
+p7 (ideologia ---- xquien votar) 
+AÑADIDO
+---------------------------------
+## VARELA 8-10 dic
+edo (imputar gto) - mun (Leon) 
+Q1 fecha
+Q54.3 (percepción) 
+Q62 (ideologia) xquien votar
+AÑADIDO
+---------------------------------
+b: 28-04may 
+Sin fechas
+Edo-mun
+q27 (ideologia) 
+q26.1 (percepcion) 
+AÑADIDO
+---------------------------------
+### ARCOP 
+a: 18-22 junio 
+ClaveEntidad-ClaveMun
+DIA
+P11 (percepción) 
+BOLETA2 (ideología) xquien votaría 
+AÑADIDO
+---------------------------------
+b: 1junio (TODO) 
+1 junio (inputar) 
+ClaveEntidad-ClaveMun
+P7 (Percepción) 
+P9 (ideología)
+AÑADIDO
+---------------------------------
+c: 10-14 JUN
+ClaveEntidad-ClaveMun
+DIA
+BOLETA3 (Ideología) xquien votar
+P8 (Percepción) 
+AÑADIDO
+---------------------------------
+d: 20-23 jun
+ClaveEntidad-ClaveMun
+DIA
+BOELTA3 (ideología) 
+P8 (percepción)
+AÑADIDO
+---------------------------------
+### GIS 
+30 al 2 jun
+INI_DATE
+mun (imputar edo, todo jalisco) 
+presidente_por_partido (ideología) 
+presi2 (percepción) 
+AÑADIDO
+---------------------------------
+## Macrodata
+a: 30may-3jun
+SIN FECHA
+estado-mun
+p007 (percepción) 
+p009 (ideología)
+AÑADIDO
+---------------------------------
+### CNEP - Correo 
+dia
+Est-Mun
+p87 (percepción) 
+p94 (ideologia) 
+AÑADIDO
+---------------------------------
+### Estudio electoral (x fuera) 
+15_18 Julio (FECHA)
+EDO_MPIO
+- P15 Percepción 
+- P5 Ideología 
+AÑADIDO
+---------------------------------
