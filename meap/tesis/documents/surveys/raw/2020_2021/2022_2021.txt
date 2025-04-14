@@ -1,0 +1,76 @@
+## Buendia 
+12-18 nov
+edo-seccion (habría que buscar seccion electoral por estado) 
+p1 ideologia
+p3 percepcion 
+AÑADIDA
+-------------------------------------------------------------------
+## Mitofsky
+04_06 dic2020
+edo-muni
+p1 percepción
+p9 ideologia 
+AÑADIDA
+-------------------------------------------------------------------
+## GEA-ISA (1)
+???
+fecha
+entife-mun
+p17a percepción
+p85 ideologia 
+AÑADIDA
+-------------------------------------------------------------------
+(2) 
+fecha
+entidad-municipio
+p15b percepcion
+r98 ideologia
+AÑADIDA
+-------------------------------------------------------------------
+03_09marzo (3) 
+fecha
+entidad-municipio
+p15b percepcion
+p88 ideologia 
+AÑADIDA
+-------------------------------------------------------------------
+(4)
+fecha
+nuevoleon - municipio 
+p1
+a4
+AÑADIDA
+-------------------------------------------------------------------
+(5)
+fecha
+jalisco - municipio 
+p1
+a4
+AÑADIDA
+-------------------------------------------------------------------
+### HELIGA
+28_29mayo
+TABASCO - MUNICIPIO
+`SIMPATÍA`
+CALIFAMLO (10 mas alto) 
+AÑADIDA
+-------------------------------------------------------------------
+## IMPULSOS
+- Excel - Todo es veracruz
+AÑADIDA
+-------------------------------------------------------------------
+## REFORMA (1)
+24_29 nov 2020
+Estado-Municipio
+DIA
+P11 - ideologia (pro o anti amlo) 
+P1 - Percepción 
+AÑADIDA
+-------------------------------------------------------------------
+## SIMO
+fecha_inicio 
+cve_ent - cve_mun 
+p1_1 (percepcion) 
+p7 (ideologia)
+AÑADIDA
+-------------------------------------------------------------------

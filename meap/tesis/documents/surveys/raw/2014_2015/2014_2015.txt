@@ -1,0 +1,68 @@
+#### GCE
+- Todo EdoMX - estrato
+- calif_autoridades_a (percepción) 
+- cercania (ideología) 
+- 5mayo
+AÑADIDO
+
+### GEA-ISA
+22_24nov 14
+- p06 (ideología) 
+- p15 (percepción) 
+- entidad-munic - fecha
+AÑADIDA
+
+7-9marzo 15
+- p06 (ideología) 
+- p18 (percepción) 
+- entidad-munic - fecha
+AÑADIDO
+
+22_26 mayo
+- entidad-municipio - fecha
+- p06 ideologia
+- p14 percepción 
+AÑADIDA
+
+GPMARK
+Excel propio 
+- 21 marzo 2015
+AÑADIDA
+
+### Instituto estudios
+Excel propio - 21 mayo 2015
+AÑADIDO
+
+### Parametría
+14_18marzo
+- ESTADO-MUNICIPIO (mal el nombre, ojo) 
+- P10A (percepcion) 
+- IDENRECO (ideologia) 
+AÑADIDO
+
+### Sigmados
+5_10 marzo
+- Entidad-municipio (Fecha)
+- P2 (percepcion) 
+- P5A (ideologia) 
+AÑADIDO
+
+27_30mayo 
+entidad-municipio (Fecha) }
+P4 (percepcion) 
+P6A (ideologia) 
+AÑADIDO
+
+### Valera Maldonado 
+15_17 nov14
+Solo D.F - Mun/Municipio
+p6a (percepcion) 
+p27 (ideologia) 
+AÑADIDO
+
+7-11 marzo15
+D.F id_mun
+solo DF 
+p6a (percepcion)
+p37 (ideologia)
+AÑADIDO

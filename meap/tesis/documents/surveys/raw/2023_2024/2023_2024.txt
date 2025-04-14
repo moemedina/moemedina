@@ -1,0 +1,211 @@
+### Campaign & Eleccions: Nada, hasta 02010 (top) // (03545) (bottom) hay 15
+-------------------------------------------------------------
+### De las Heras demotecnia (falta mun//es de Zacatecas) (02051 top // 03370 bottom) hay 9
+(1) Nov 2023, Zacatecas 
+EDO: ZAC
+MUN: -- (NO SIRVE)
+E0101: Ideologia
+AP01: Percepcion 
+------------------------------------------------------------
+### Enkoll (Estudio Enkoll (top)// 02923 (Bottom) hay 6)
+(1): Base (1) 
+Clave.Ent: Codigo
+Clave.Mun:  Codigo
+P8: Ideología
+P9: Percepcion (Que siga gobernando morena - Good)
+AÑADIDA
+
+(2): Base (2)
+ENTIDAD
+MUNICIPIO
+P6: Ideologia
+P7: PErcepcion (que siga gobernando) 
+AÑADIDA
+
+ROUND2
+(1):
+Entidad/Clave.Ent
+Municipio/Clave.Mun
+P9: Ideologia
+P10: Percepción (que siga gobernando)
+AÑADIDA
+
+(2):
+Entidad/Clave.Ent
+Municipio/Clave.Mun
+P9: Ideologia
+P10: Percepción (que siga gobernando)
+AÑADIDA
+-----------------------------------------------------------
+### Mitofsky (02419-03348. hay 6) 
+- Falta la pregunta de percepcion 
+----------------------------------------------------------
+### FactoMétrica (02372-03533) hay 8 
+---------------------------------------------------------
+### TecnEstadist (02435-02441) hay 7 
+- Falta municipio 
+--------------------------------------------------------------------------
+### GOBERNARTE (03279 - 03604) hay 10
+- Falta información
+---------------------------------------------------------------------------
+### ARAGON ESTUDIOS (03610) Solo hay 1
+- Falta de información 
+----------------------------------------------------------------------------
+### SMX (03308 - 03648) Ssolo hay 3
+(1)
+Puebla - Mun en la 1er pregunta
+Ideologia q0011: Qué alianza debería de gobernar
+Percepción q0007: Gobierno de AMLO
+(AÑADIDA)
+------------------------------------------------------------------------
+### Massive Caller (no tiene info suficiente, son varias) ~100 llamadas 
+----------------------------------------------------------
+### Mutipoll (Solo habla de senadores, hay muchas) ~llamadas
+----------------------------------------------------------
+### Poligramas (solo hay 1. 02053)
+----------------------------------------------------------
+### TResearch (hay 10: 02099-03663) hay 28
+- falta percepción.
+----------------------------------------------------------
+### El Financiero (hay 5, 02380-03501)
+----------------------------------------------------------
+### MEBA (solo 10: 02190-03579)
+(1) 
+- EDO con Seccion Electoral 
+- P4: Percepción
+- P3A6//P2: Ideologia (?)
+AÑADIDA
+
+(2) 
+Igual 
+AÑADIDA
+
+round2
+(1)
+ESTADO / SECC
+P4: percepcion: (1 aprueba)
+P3a4: ideologia: (1 muy buena - 4muy mala)
+AÑADIDA
+
+round3
+(1)
+Añadida - 02981
+
+(2)
+Añadida - 03011
+
+(3) 
+Añadida - 03230
+
+(4)
+Añadida - 03457
+-----------------------------------------------------------
+### PROCOM - Solo 1: 03347
+----------------------------------------------------------
+### DIARIO BASTA: Solo 2: 02835 - 03331
+03331: falta municipio
+-------------------------------------------------------------
+### Sin Sesgo - 03619
+-----------------------------------------------------------
+### Estudio BuendiaMarquez (hay 2: 02150-02499)
+- 02499: Falta mun
+- 02150: No sirve
+-----------------------------------------------------------
+### CSIM (1) 
+- no sirve 
+-----------------------------------------------------------
+### Consulta Ciudadana (hay 4: 02661-03665)
+- No sirve, solo diputación y sin EDO-MUN
+-----------------------------------------------------------
+### OSCAR (solo 1)
+-----------------------------------------------------------
+### CovarrubiasyAsociados (hay 5: 02455 - 03266) 
+(1) 
+- ESTADO
+- MPO o seccion
+- P1: Percepción
+- P3: Ideologia
+AÑADIDA
+
+(2)
+- ESTADO
+- MPO o seccion
+- P1: Percepcion
+- P2: Ideologia (voto) 
+AÑADIDA
+
+(3)
+- ESTADO
+- MPO o seccion 
+- P4: Percepcion
+- P3: Ideologia 
+AÑADIDA
+
+ROUND2
+(1)
+ESTADO MPO SECC
+- P1 (percepcion)
+- P4 Ideologia (voto)
+AÑADIDA
+
+(2)
+ESTADO MPO SECC
+- P1 (percepcion)
+- P5 Ideologia (voto)
+AÑADIDA
+---------------------------------------------------------------
+### VOTIA (hay 6: 02191-03363) 
+- Falta MUN
+----------------------------------------------------------
+### ZOOHT (hay 2: 03273-03351)
+- Sin información relevante
+---------------------------------------------------------------
+### EDITORA EL SOL (solo hay 1: 03474)
+- Solo información gobernador de NL 
+---------------------------------------------------------------
+### CIPRESO (hay 3: 03101-02566)
+- Falta MUN (Tiene C.P, no estoy listo para eso) 
+'---------------------------------------------------------
+### ENFOCATE (hay 2: 03109-03605)
+Round2
+(1)
+GUERRERO - SAN MARCOS - SECC
+Austedquepartidolegustamas (ideologia)
+comocalificariaelgobiernodelpresidente (percepción)
+AÑADIDA
+
+(2) 
+QUERETARO - SAN JUAN DEL RIO: 22_16 KEY
+AÑADIDA
+----------------------------------------------------------
+### SIMO (solo 2 - 02570-02892)
+- Faltan EDO y MUN
+----------------------------------------------------------
+### GEA-ISA (hay 4: 02028-03283)
+ROUND2
+(1) 
+entidad/municip/seccion
+P11 Percepcion (Labor AMLO)
+P58 ideologia (partido)
+AÑADIDA
+----------------------------------------------------------
+### RUBRUMINFOS (Fugaz) ~llamadas
+----------------------------------------------------------
+### BERUMEN (hay 3: 02665-02885)
+ROUND2 
+(1)
+ESTADO SECCION 
+P10 (Percepcion)
+P19_2 ideologia (Opinion de morena)
+AÑADIDA
+
+(3)
+AÑADIDA
+-------------------------------------
+### VERBO LIBRE (hay 2: 03181-03278)
+BASE DE DATOS MUY POBRE 
+----------------------------------------------
+### INDAGAR (SOLO 1)
+SOLO SAN LUIS POTOSI 
+---------------------------------------------
+### POLICYMETRIA (HAY 2: 03664-0
