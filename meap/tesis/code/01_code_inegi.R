@@ -1,22 +1,4 @@
 ##### Dependencies #####
-library(tidyverse)
-library(tidyr)
-library(data.table)
-library(haven)
-library(ggplot2)
-library(ggpubr)
-library(reshape2)
-library(foreign)
-library(patchwork)
-library(kableExtra)
-library(knitr)
-library(gdata)
-library(zoo)
-library(labelled)
-library(readxl)
-library(DIDmultiplegt)
-library(broom)
-library(DIDmultiplegtDYN)
 
 ## Setup 
 wd <- "C:/Users/mario/OneDrive/GitHub/personal-projects/meap/tesis"
@@ -25,8 +7,7 @@ set.seed(156940)
 options(scipen=999)
 
 ## Downloading / Loading dependencies
-list.of.packages <- c("stargazer", "tidyverse", "plm", "haven", "fixest", 
-                      "varhandle", "lfe")
+list.of.packages <- c("data.table","dplyr","readxl")
 
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 
