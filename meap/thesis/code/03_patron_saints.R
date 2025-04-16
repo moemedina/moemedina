@@ -1,7 +1,7 @@
 ##### Dependencies #####
 
 ## Setup 
-wd <- "C:/Users/mario/OneDrive/GitHub/personal-projects/meap/tesis"
+wd <- "C:/Users/mario/OneDrive/GitHub/personal-projects/meap/thesis"
 setwd(wd)
 set.seed(156940)
 options(scipen=999)
