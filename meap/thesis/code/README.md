@@ -1,5 +1,7 @@
 Code related to the project
 
+- **00_main.R**: This script runs everything else (by script). Read script and output descriptions for a better understanding
+
 - **01_code_inegi.R**: Basic manipulation/transformation for INEGI catalog. The main output is an ideal catalog for future joins with survey data
 
 - **02_code_calendar.R:** Creation of a daily calendar from 2021-2025 for future joins between surveys and patron saint festivals.
