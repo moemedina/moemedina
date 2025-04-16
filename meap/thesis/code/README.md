@@ -15,5 +15,5 @@ Code related to the project
 - **06_polarization_and_fixdistance.R** *(takes a little more than the others)*: polarization calculation and fixed distance calculation (this last one can be reused for any type of event) 
   - *OUTPUT*: 
     - calculo_polarizacion: polarization information from the usable survey (Survey level) 
-daily_df_patronal: A daily calendar from 2011 to 2025 with the distance in weeks from each week to the patron saint festival, ready to be joined to other events, not only patron saint festivals. 
+    - daily_df_patronal: A daily calendar from 2011 to 2025 with the distance in weeks from each week to the patron saint festival, ready to be joined to other events, not only patron saint festivals. 
 
